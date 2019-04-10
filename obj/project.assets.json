@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC1/Portfolio/Portfolio.csproj",
+      "projectUniqueName": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/Portfolio/Portfolio.csproj",
       "projectName": "Portfolio",
-      "projectPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC1/Portfolio/Portfolio.csproj",
+      "projectPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/Portfolio/Portfolio.csproj",
       "packagesPath": "/Users/rx/.nuget/packages/",
-      "outputPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC1/Portfolio/obj/",
+      "outputPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/Portfolio/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
